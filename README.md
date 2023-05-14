@@ -1,9 +1,8 @@
-### Hi there 👋
-I'm frontend developer.
-
-![Codewars](https://github.r2v.ch/codewars?user=Edmones)
-
+### Hi there, I'm Anton Kurenov 👋
+Frontend developer.
 - 🌱 I’m currently learning React and Redux.
+[![codewars](https://www.codewars.com/users/Edmones/badges/small)](https://www.codewars.com/users/username)
+
 
 <!--
 **AntonKurenov/AntonKurenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
