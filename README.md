@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm frontend developer.
+
+![Codewars](https://github.r2v.ch/codewars?user=Edmones)
+
+- 🌱 I’m currently learning React and Redux.
 
 <!--
 **AntonKurenov/AntonKurenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
