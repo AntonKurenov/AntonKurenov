@@ -1,6 +1,8 @@
 ### Hi there, I'm Anton Kurenov 👋
 Frontend developer.
-- 🌱 I’m currently learning React and Redux.
+- 🌱 I’m currently learning and mastering React and Redux.
+- 📫 How to reach me: telegram: @AntonKurenov  
+anton-kurenov@yandex.ru
 
 ![Codewars](https://github.r2v.ch/codewars?user=Edmones)
 <!-- [![codewars](https://www.codewars.com/users/Edmones/badges/small)](https://www.codewars.com/users/username) -->
