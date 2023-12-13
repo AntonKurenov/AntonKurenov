@@ -1,6 +1,6 @@
 ### Hi there, I'm Anton Kurenov 👋
-Frontend developer.
-- 🌱 I’m currently learning and mastering React and Redux.
+
+- 🌱 I'm currently studying to become a Systems Analyst.
 - 📫 How to reach me: telegram: @AntonKurenov  
 anton-kurenov@yandex.ru
 
